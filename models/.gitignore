@@ -1,0 +1,6 @@
+# Ignore all files in this directory
+*
+
+# Except for this .gitignore file and the .gitkeep file
+!.gitignore
+!.gitkeep
